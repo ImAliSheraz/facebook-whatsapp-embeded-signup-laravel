@@ -64,3 +64,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Setup
+
+Set the following keys in the `.env` file.
+
+```
+META_APP_ID=
+META_CONFIG_ID=
+META_API_VERSION=v19.0
+
+```
+
+## Show Your Support
+🚀 [Connect me on LinkedIn](https://www.linkedin.com/in/imalisheraz/) - Your support means a lot!  
+⭐ Don't forget to star the repo, it's FREE! 😉
